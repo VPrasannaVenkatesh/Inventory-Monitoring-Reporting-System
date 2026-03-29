@@ -144,7 +144,7 @@ Automatically sends alerts when stock quantity falls below the reorder level.
 
  1️⃣ Clone the repository
 
-git clone https://github.com/ponkarthika96/inventory-monitoring-report-system.git
+git clone https://github.com/VPrasannaVenkatesh/Inventory-Monitoring-Report-System.git
 
 
  2️⃣ Open in IntelliJ IDEA
@@ -177,11 +177,9 @@ http://localhost:8080/login
 
 ---
 
-👩‍💻 Author
+👩‍💻 Leader
 
 **Ponkarthika**
-
-GitHub: https://github.com/ponkarthika96
 
 👥 Contributors
 
